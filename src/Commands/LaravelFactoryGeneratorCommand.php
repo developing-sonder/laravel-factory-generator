@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Developing Sonder\LaravelFactoryGenerator\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelFactoryGeneratorCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-factory-generator';
 
     public $description = 'My command';
 
